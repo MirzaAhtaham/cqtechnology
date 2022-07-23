@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "Fname":"Ahsan",
+        "LName":"Ali"
+    },
+    {
+        "id" : 2,
+        "Fname":"Rizwan",
+        "LName":"Ahmed"
+    },{
+        "id" : 3,
+        "Fname":"Usman",
+        "LName":"Qadeer"
+    },{
+        "id" : 4,
+        "Fname":"Rehan",
+        "LName":"Sajid"
+    },{
+        "id" : 5,
+        "Fname":"Humza",
+        "LName":"Shahzad"
+    },{
+        "id" : 6,
+        "Fname":"Salman",
+        "LName":"Akram"
+    }
+]

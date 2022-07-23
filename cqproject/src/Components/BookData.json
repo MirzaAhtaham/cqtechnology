@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "BookName":"Stat",
+        "Author":"Umair",
+        "BorrowBook":"Usman",
+        "DOB":"20-1-2022",
+        "Return":"5-2-2022"
+    },
+    {
+        "id" : 2,
+        "BookName":"Calculas",
+        "Author":"Zubair",
+        "BorrowBook":"Usman",
+        "DOB":"21-1-2022",
+        "Return":"25-1-2022"
+    },
+    {
+        "id" : 3,
+        "BookName":"DSA",
+        "Author":"Ch.HAbib",
+        "BorrowBook":"Usman",
+        "DOB":"10-6-2022",
+        "Return":"27-6-2022"
+    },
+    {
+        "id" : 4,
+        "BookName":"Basic Electronic",
+        "Author":"Fawad",
+        "BorrowBook":"Usman",
+        "DOB":"3-7-2022",
+        "Return":"18-7-2022"
+    },
+    {
+        "id" : 5,
+        "BookName":"Computer Architecture",
+        "Author":"Zain",
+        "BorrowBook":"Usman",
+        "DOB":"7-9-2022",
+        "Return":"23-9-2022"
+    }
+]

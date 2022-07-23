@@ -1,0 +1,26 @@
+.headerTextColor{
+color: aliceblue;
+}
+
+.homeStudentTitle{
+    margin: 10px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.liStyle{
+    cursor: pointer;
+}
+.dateStyle{
+
+    margin: 20px;
+    margin-left: 100px;
+    
+}
+.dateContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.fotter{
+    height: 200px;
+}
